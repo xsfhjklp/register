@@ -1,12 +1,12 @@
 {
-  "subdomain": "yoursubdomain",
+  "subdomain": "xsfhjk.thedev.me",
   "domain": "thedev.me",
-  "email_or_discord": "user@example.com or user",
-  "github_username": "user",
+  "email_or_discord": "3384666202@qq.com",
+  "github_username": "xs",
   "description": "A brief description of the purpose of the subdomain",
 
   "records": {
-    "A":     ["1.0.0.1", "1.0.0.2"],
+    "A":     [", "45.207.193.59"],
     "AAAA":  ["2000:db8::1", "2000:db8::2"],
     "CNAME": ["example.com"],
     "NS":    ["ns1.example.com", "ns2.example.com"],
